@@ -1,2 +1,2 @@
 # NumberGuessingApp
-It's just in the game
+It's just in the guess
